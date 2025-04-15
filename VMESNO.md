@@ -19,7 +19,8 @@ Prvotne podatke smo prejeli kot json datoteko, vendar smo jih za lažjo uporabo 
 # Analiza in glavne ugotovitve
 ## Kateri segmenti so najbolj popularni?
 
-Večina segmentov je krajših od 2Km,
+Večina segmentov je krajših od 2Km.
+
 ![graf1_histogram_dolzina](https://github.com/user-attachments/assets/2ddf1386-d50e-4d4d-9063-348489d322ca)
 
 
@@ -27,21 +28,28 @@ Ob opazovanju spodnjega grafa je videti, da:
 - največ segmentov nima vzpona,
 - so segmenti z večjimi vzponi vedno bolj redki,
 - obstaja korelacija med dolžino segmenta in vzponom - daljši kot je segment, večji je vzpon.
+  
 ![graf2_scatter_dolzina_vs_visina](https://github.com/user-attachments/assets/b66106d4-92b6-48fa-8af8-80b145bc2b8d)
 
+
 Število segmentov res pada z zahtevnostjo vzpona:
+
 ![graf5_frekvenca_kategorij](https://github.com/user-attachments/assets/67fc87cb-b9ef-4f2b-b0df-5b86a9ae3b70)
 
 
 Če razdelimo segmente po kategoriji vzpona, opazimo da so povprečni nakloni večji za strmejše vzpone.
+
 ![graf3_boxplot_naklon_kategorije](https://github.com/user-attachments/assets/a7f97689-a3ee-488d-99fe-a364e17d7ac1)
 
 ## Katero področje Slovenije je kolesarsko najbolj aktivno?
 
 Razporeditev po Sloveniji je precej enakomerna, 
+
 ![graf4_geografske_tocke_map](https://github.com/user-attachments/assets/a9e1efbb-94f6-4b1e-a2c3-c9876b4ca8fa)
 
+
 razvidno pa je tudi, da se v Zagrebu začne nadpovprečno število poti.
+
 ![heatmap_aktivnost_zemljevid](https://github.com/user-attachments/assets/1671a8f8-c7be-4d3f-8faa-820f58ed3867)
 
 
