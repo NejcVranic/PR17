@@ -47,7 +47,7 @@ Za oceno aktivnosti regij primerjamo število segmentov v posamezni regiji.
 
 Največja višinska razlika segmenta presega 1500m.
 
-![top10_vzponi](https://github.com/user-attachments/assets/e40a4c49-7787-48c3-9cce-b4a3752edd13)
+![top10_vzponi_nov](https://github.com/user-attachments/assets/96f21c20-3e07-462e-a49e-6ae2b9b6dc67)
 
 
 
