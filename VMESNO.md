@@ -51,32 +51,3 @@ Največja višinska razlika segmenta presega 1500m.
 
 
 
-
-
-
-
-
-
-
-
-
-Če razdelimo segmente po kategoriji vzpona, opazimo da so povprečni nakloni večji za strmejše vzpone.
-
-![graf3_boxplot_naklon_kategorije](https://github.com/user-attachments/assets/a7f97689-a3ee-488d-99fe-a364e17d7ac1)
-
-## Katero področje Slovenije je kolesarsko najbolj aktivno?
-
-Razporeditev po Sloveniji je precej enakomerna, 
-
-![graf4_geografske_tocke_map](https://github.com/user-attachments/assets/a9e1efbb-94f6-4b1e-a2c3-c9876b4ca8fa)
-
-
-razvidno pa je tudi, da se v Zagrebu začne nadpovprečno število poti.
-
-![heatmap_aktivnost_zemljevid](https://github.com/user-attachments/assets/1671a8f8-c7be-4d3f-8faa-820f58ed3867)
-
-
-
-
-
-
