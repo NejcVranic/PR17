@@ -3,7 +3,7 @@ Tema skupinskega projekta je kolesarjenje v Sloveniji.
 
 V okviru tega raziskovalnega problema bi radi odgovorili na naslednja ključna vprašanja:
 - Kateri in kakšni so najbolj popularni segmenti? – Kako zahtevne so najbolj priljubljene poti, kakšne razdalje in višinske razlike običajno premagujejo kolesarji? Gre za cestno, urbano ali gorsko kolesarjenje?
-- Kaj je povprečno število voženj po kategorijah vzpona
+- Kako se pogostost voženj spreminja s kategorijo vzpona?
 - Kaj lahko povemo o dolžinah in vzponih poti? – Ali obstaja korelacija med dolžino in vzponom poti, korelacija med dolžino segmenta in številom voženj?
 - Katero področje Slovenije je kolesarsko najbolj aktivno - Ali so katere regije bolj aktivne od ostalih?
 - Kako se regije razlikujejo po lastnostih svojih običajnih poti? - Ali so morda poti z visokimi vzponi bolj pogosta v nekaterih regijah?
